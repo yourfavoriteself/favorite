@@ -1,11 +1,11 @@
 #include <iostream>
 
-using namespace std;
+//using namespace std;
 
 int main() { 
-string n;
-cout<<"your name, darling:"<<endl;
-cin>>n;
-    cout << "Hello, World! from " << n <<endl; 
+std::string n;
+std::cout<<"your name, darling:"<<std::endl;
+std::cin>>n;
+std::cout << "Hello, World! from " << n <<std::endl; 
     return 0;
 }
