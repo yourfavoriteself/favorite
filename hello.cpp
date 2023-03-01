@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 int main()
 {
   std::string n; // подписывайтесь аккаунт на @yourfavoriteself
